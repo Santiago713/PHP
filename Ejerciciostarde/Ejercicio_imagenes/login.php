@@ -36,6 +36,7 @@
 			transition: 0.5s;
 		}
 	</style>
+<!--	<body style="background-image: url(imagenes/a.jpg);"> -->
 	<center><h1>Inicio de Sesion</h1>
 		<form action="#" method="POST">
 			Nombre Usuario<br><input type="text" name="nomusuario"><br>
